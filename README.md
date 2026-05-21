@@ -189,13 +189,13 @@ Possible future enhancements include:
 # Screenshots
 
 ## Main Menu
-(Add screenshot here)
+screenshots/main-menu.png
 
 ## Add Book Screen
-(Add screenshot here)
+screenshots/add-book.png
 
 ## Search Book Screen
-(Add screenshot here)
+screenshots/search-book.png
 
 ---
 
